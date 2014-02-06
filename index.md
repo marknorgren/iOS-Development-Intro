@@ -1,3 +1,6 @@
+---
+layout: main
+---
 iOS-Development-Intro
 =====================
 

@@ -42,3 +42,22 @@ Now that XCode is installed on your Mac we can start with the Hello World for iO
    <img src="https://raw2.github.com/mrkd/iOS-Development-Intro/master/images/app-running-in-simulator.png" alt="app-running-in-simulator" style="width: 500px;"/>
 
 
+Push Project to Github
+------------------------
+
+3. The root of your XCode project we created above should automatically have initialized a git repo for you. You can verify it did this by checking for the `.git` folder.
+4. Run `git status` from the command line at the root of your project in terminal. This will show you files that are modified and need to be checked in.
+5. Run `git add .`
+   * this will add all modified files in the current directory and subdirectories.
+6. Run `git commit -m "<type in meaninful commit meesge>"`
+   * this will allow you to type a commit message and commit the files you staged in the previous step.
+1. Create an account on [github.com](http://github.com) if you do not already have one.
+2. Follow github's tutorial on generating ssh keys if you do not have ssh key's already setup.
+   * [Generating ssh keys](https://help.github.com/articles/generating-ssh-keys)
+2. Create a new repository and DO NOT initialize the repository with a README.
+   * Note - name the repository 'xcode5-ios-hello-world' 
+   
+
+<img src="https://raw2.github.com/mrkd/iOS-Development-Intro/master/images/github-create_a_new_repository.png" alt="app-running-in-simulator" style="width: 500px;"/>
+3. After creating the repository follow github's directions for adding this repo as a remote repository and push your code to it.
+
