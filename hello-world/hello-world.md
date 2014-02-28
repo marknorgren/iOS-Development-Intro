@@ -45,6 +45,8 @@ Now that XCode is installed on your Mac we can start with the Hello World for iO
 Push Project to Github
 ------------------------
 
+* Note: If you prefer to use a GUI when working with Git I recommend using Atlassian's [SourceTree](http://www.sourcetreeapp.com/)
+
 3. The root of your XCode project we created above should automatically have initialized a git repo for you. You can verify it did this by checking for the `.git` folder.
 4. Run `git status` from the command line at the root of your project in terminal. This will show you files that are modified and need to be checked in.
 5. Run `git add .`
