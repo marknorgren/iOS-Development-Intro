@@ -63,3 +63,8 @@ Push Project to Github
 <img src="https://raw2.github.com/mrkd/iOS-Development-Intro/master/images/github-create_a_new_repository.png" alt="app-running-in-simulator" style="width: 500px;"/>
 3. After creating the repository follow github's directions for adding this repo as a remote repository and push your code to it.
 
+Links / References
+------------------
+
+* [iOS UIViewController Lifecycle](http://rdkw.wordpress.com/2013/02/24/ios-uiviewcontroller-lifecycle/)
+
