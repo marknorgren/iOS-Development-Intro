@@ -23,7 +23,7 @@ Once you are all set and meet the requirements follow the steps below.
 
    It is best to make sure your OS X install is up to date.
    
-   <img src="https://raw2.github.com/mrkd/iOS-Development-Intro/master/images/OSX-AppStoreUpdates.png" alt="Drawing" style="width: 500px;"/>
+   <img src="./images/OSX-AppStoreUpdates.png" alt="Drawing" style="width: 500px;"/>
 
 2. Install Xcode 5 from the OS X App Store.
    
