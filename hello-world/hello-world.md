@@ -6,7 +6,7 @@ Hello Xcode and iOS Development
 
 Now that XCode is installed on your Mac we can start with the Hello World for iOS Development. XCode makes this extremely easy for us.
 
-<img src="./images/welcome-to-xcode.png" alt="welcome-to-xcode" style="width: 500px;"/>
+<img src="../images/welcome-to-xcode.png" alt="welcome-to-xcode" style="width: 500px;"/>
 
 1. Open XCode
    * You should see the 'Welcome to Xcode window'
@@ -23,7 +23,7 @@ Now that XCode is installed on your Mac we can start with the Hello World for iO
 2. Click 'Create a new Xcode project'
 3. Select the 'Single View Application' template for the new project.
 
-   <img src="./images/choose-project-template.png" alt="choose-single-view-application" style="width: 500px;"/>
+   <img src="../images/choose-project-template.png" alt="choose-single-view-application" style="width: 500px;"/>
 4. Next will be the 'Choose options' window.
    * The 'Company Identifier' will be a part of your Application's 'Bundle Identifier'. The bundle identifier is almost like the executable's name, in that it tells iOS which application this is. If the bundle identifier changes and you install the app it is just like installing a whole new application.
    *  The class prefix is recommended to be 3 characters. Here I just chose 'MRK' for 'Mark'. This is Objective C's workaround for not having namespaces.
@@ -33,7 +33,7 @@ Now that XCode is installed on your Mac we can start with the Hello World for iO
      directory as a git repo for us.
 5. You should now have your new project in Xcode open. Press the Play button in the upper left of the window to build and run the project.
 
-   <img src="./images/new-project-xcode.png" style="width: 500px;"/>
+   <img src="../images/new-project-xcode.png" style="width: 500px;"/>
 
    * You may be prompted to enable developer mode on your Mac. Go ahead and Enable this.
 6. Once your project builds Xcode will start the iOS simulator, install your app, and run it.
@@ -60,7 +60,7 @@ Push Project to Github
    * Note - name the repository 'xcode5-ios-hello-world' 
    
 
-<img src="./images/github-create_a_new_repository.png" alt="app-running-in-simulator" style="width: 500px;"/>
+<img src="../images/github-create_a_new_repository.png" alt="app-running-in-simulator" style="width: 500px;"/>
 3. After creating the repository follow github's directions for adding this repo as a remote repository and push your code to it.
 
 Links / References
