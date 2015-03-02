@@ -27,13 +27,13 @@ Once you are all set and meet the requirements follow the steps below.
 
 2. Install Xcode 5 from the OS X App Store.
    
-   <img src="https://raw2.github.com/mrkd/iOS-Development-Intro/master/images/xcode-icon.png" alt="XCode Icon" style="width: 128px;">
+   <img src="./images/xcode-icon.png" alt="XCode Icon" style="width: 128px;">
    * Xcode 5 is a little over 2GB download.
    * Xcode will be installed to: `/Applications/XCode.app`
 3. Once the download is complete open XCode
 
 
-[Lesson 1 - Hello World!](./images/hello-world/hello-world.md)
+[Lesson 1 - Hello World!](./hello-world/hello-world.md)
 
 
 
