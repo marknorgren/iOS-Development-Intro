@@ -34,12 +34,14 @@ Now that XCode is installed on your Mac we can start with the Hello World for iO
 5. You should now have your new project in Xcode open. Press the Play button in the upper left of the window to build and run the project.
 
    <img src="../images/new-project-xcode.png" style="width: 500px;"/>
-
+   
    * You may be prompted to enable developer mode on your Mac. Go ahead and Enable this.
+   
 6. Once your project builds Xcode will start the iOS simulator, install your app, and run it.
    * You should now see your application running in the simulator. For now this is simply a white window.
-   
-   <img src="https://raw2.github.com/mrkd/iOS-Development-Intro/master/images/app-running-in-simulator.png" alt="app-running-in-simulator" style="width: 500px;"/>
+    
+   <img src="../images/app-running-in-simulator.png" alt="app-running-in-simulator" style="width: 500px;"/>
+
 
 
 Push Project to Github
