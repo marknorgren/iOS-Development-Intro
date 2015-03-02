@@ -33,7 +33,7 @@ Once you are all set and meet the requirements follow the steps below.
 3. Once the download is complete open XCode
 
 
-[Lesson 1 - Hello World!](./hello-world/hello-world.md)
+[Lesson 1 - Hello World!](./images/hello-world/hello-world.md)
 
 
 
