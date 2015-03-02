@@ -40,9 +40,8 @@ Now that XCode is installed on your Mac we can start with the Hello World for iO
 6. Once your project builds Xcode will start the iOS simulator, install your app, and run it.
    * You should now see your application running in the simulator. For now this is simply a white window.
     
-   <img src="../images/app-running-in-simulator.png" alt="app-running-in-simulator" style="width: 500px;"/>
 
-
+  <img src="../images/app-running-in-simulator.png" alt="app-running-in-simulator" style="width: 500px;"/>
 
 Push Project to Github
 ------------------------
