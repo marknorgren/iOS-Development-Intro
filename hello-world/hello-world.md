@@ -16,7 +16,7 @@ Now that XCode is installed on your Mac we can start with the Hello World for iO
    * In the Components section click the download arrow to the right to install and download
      the Command Line Tools.
      
-     <img src="https://raw2.github.com/mrkd/iOS-Development-Intro/master/images/xcode-install-command-line-tools.png" alt="install-command-line-tools" style="width: 400px;"/>
+     <img src="../images/xcode-install-command-line-tools.png" alt="install-command-line-tools" style="width: 400px;"/>
      
    
    
